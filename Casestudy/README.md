@@ -38,4 +38,19 @@ an AC-to-DC adapter or battery to get started.
 protocol and support the unique need of low cost and low power. This module requires
 minimum power and provide reliable delivery of data between devices. It operates at 2.4GHz
 frequency band.
+ 
+# HIGH LEVEL REQUIREMENT:
+  HR-1 It supports both AT and API mode. Its baud ranges from 2400 bps to 115200 bps. On this
+interfacing board, CP2102 IC is used for converting TTL logic to USB logic.
+  
+  HR-2 Arduino UNO can communicate with a computer or other Arduino or other microcontrollers.
+It communicates via serial communication (UART TTL). This serial communication appears
+as a virtual com port to software on the computer.
+
+# LOW LEVEL REQUIREMENT:
+  LR-1 Zigbee USB Interfacing module is connected to the Router circuit.
+  LR-2 The output is given to the microcontroller to take decicions whether to turn on alarm or not.
+  
+  
+
 
