@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/98878142/155695360-e2ed7b56-994a-4e30-b90d-18365c5d5754.png)
+![image](https://user-images.githubusercontent.com/98878142/155695365-6db6a4b0-bf02-4901-a744-fc620ce7b0f5.png)
 # CASESTUDY
 # MINE SAFETY SYSTEM:
 ![Screenshot_20220220-184654](https://user-images.githubusercontent.com/98878142/154846016-00ccc435-e368-4818-8b27-9b35dbb8378a.jpg)                  
