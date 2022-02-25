@@ -17,3 +17,25 @@ humidity and multiple toxic gases. This system also provides an early warning, w
 helpful to all miners present inside the mine to save their life before any casualty occurs. The
 system uses Zigbee technology to establish wireless sensor network. It is wireless networking
 standard IEEE 802.15.4, which is suitable for operation in harsh environment. 
+
+# ZIGBEE INTERFACING MODULE:
+  ZigBee (Xbee) USB Interfacing Board is used to interface Xbee wireless module with
+computer systems. This Board is used to connect ZigBee modules to make communication
+between PC to PC or laptop, PC to Mechanical Assembly or robot, PC to embedded and
+microcontroller based Circuits.As ZigBee communicates through Serial Communication so 
+other end of USB which is connected to a PC, treated as COM port for Serial Communication.
+It is provided with indication LEDs for ease.
+
+# ARDUINO UNO:
+  The Arduino board is a specially designed circuit board for programming and prototyping with
+Atmel microcontrollers. The microcontroller on the board is programmed using the Arduino
+Programming Language (based on Wiring) and the Arduino development environment (based
+on Processing). It is relatively cheap and plug straight to computer’s USB port or power it with
+an AC-to-DC adapter or battery to get started. 
+
+# XBEE PRO S2B:
+  The Xbee Pro S2B module is a wireless sensor network, which operates within the Zigbee
+protocol and support the unique need of low cost and low power. This module requires
+minimum power and provide reliable delivery of data between devices. It operates at 2.4GHz
+frequency band.
+
