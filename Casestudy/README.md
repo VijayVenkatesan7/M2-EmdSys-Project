@@ -1,6 +1,7 @@
 # CASESYUDY
 # MINE SAFETY SYSTEM:
 
+# BLOCK DIAGRAM:
 ![image](https://user-images.githubusercontent.com/98878142/155695360-e2ed7b56-994a-4e30-b90d-18365c5d5754.png)
                  
 
