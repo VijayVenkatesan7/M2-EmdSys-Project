@@ -1,3 +1,0 @@
- # Reqiurements
- # Introduction
- * vijayvenkatesan project
