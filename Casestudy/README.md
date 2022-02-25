@@ -49,6 +49,7 @@ as a virtual com port to software on the computer.
 
 # LOW LEVEL REQUIREMENT:
   LR-1 Zigbee USB Interfacing module is connected to the Router circuit.
+  
   LR-2 The output is given to the microcontroller to take decicions whether to turn on alarm or not.
   
   
