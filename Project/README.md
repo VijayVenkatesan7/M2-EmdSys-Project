@@ -26,12 +26,16 @@
 # HIGH LEVEL REQUIREMENTS:
 |  ID  |             Description                                                  |
 |:-----|:-------------------------------------------------------------------------|
-| HR-1 | Sensor should give the output whether the person wearing seat belt or not|                                        |
-| HR-2 | Buzzeralarm should beep in case of instrution                            |
-| HR-3 | LCD should display the case of instrution                                |
+| HR01 | Sensor should give the output whether the person wearing seat belt or not|                                        |
+| HR02 | Buzzeralarm should beep in case of instrution                            |
+| HR03 | LCD should display the case of instrution                                |
 
 # LOW LEVEL REQUIREMENTS:
-|
+|  ID  |                                  Description                                                   |
+|:-----|:-----------------------------------------------------------------------------------------------|
+| LR01 | Sensor Output should show whether he wears the seat belt or not plus license should be verified|
+| LR02 | System should alert the vehicle owner if there is a case of intrution                          |
+
 
 
 
