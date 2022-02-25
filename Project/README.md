@@ -24,13 +24,14 @@
  a limit switch is a switch operated by the motion of a machine part or the presence of an object. A limit switch can be used for controlling machinery as part of a control system, as a safety interlock, or as a counter enumerating objects passing a point.Limit switches are used in a variety of applications and environments because of their ruggedness, ease of installation, and reliability of operation. They can determine the presence, passing, positioning, and end of travel of an object. They were first used to define the limit of travel of an object, hence the name "limit switch".
  
 # HIGH LEVEL REQUIREMENTS:
-|  ID  |             Description                                 |
-|:-----|:--------------------------------------------------------|
-| HR-1 |  Processor read/write access to program memory          |
-| HR-2 |  Wide operating voltage range: 2.5V to 5.5V.            |
-| HR-3 | High Sink/Source Current:25 Ma and Low-power consumption|
+|  ID  |             Description                                                  |
+|:-----|:-------------------------------------------------------------------------|
+| HR-1 | Sensor should give the output whether the person wearing seat belt or not|                                        |
+| HR-2 | Buzzeralarm should beep in case of instrution                            |
+| HR-3 | LCD should display the case of instrution                                |
 
-
+# LOW LEVEL REQUIREMENTS:
+|
 
 
 
