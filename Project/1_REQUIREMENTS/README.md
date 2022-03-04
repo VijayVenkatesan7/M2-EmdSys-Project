@@ -4,6 +4,10 @@
      The finger-print based System for driving licensing verification. Biometrics is one of the most critical emerging technology. As the world becomes more volatile and potentially more vulnerable to fraudulent forces, our fate lies within our ability to secure and protect critical data and facilities. From these different available biometric features Finger Print is one of the best features which provides good mismatch ratio and reliability. Driving without license is a major issue in many countries. Survey says that the accidents happened mostly by unlicensed drivers. The new system Finger print identification is proposed.We represent the design of a prototype automatic license verification system and its implementation. It uses fingerprints to verify the identity of an individual. If the finger print stored in the controller and finger print swiped in the device matches, he/she can proceed for ignition and otherwise ignition will not work. This will reduce the accidents happened by unlicensed drivers.
   
   The Microcontroller is surrounded by r303a finger print scanner , Step down transformer for power supply, Relay , LCD.The LCD is connected to the pic microcontroller to           displays the process.The microcontroller is a programming tool to run the entire operation.
+# BLOCK DIAGRAM:
+  ![WhatsApp Image 2022-02-25 at 8 06 23 PM](https://user-images.githubusercontent.com/98878142/156802634-b05b25d2-07d6-4ce0-b66e-f3387fded11c.jpeg)
+
+
 
 # MICROCONTROLLER:
   Various microcontrollers offer different kinds of memories and the microcontroller we used is shown in the block diagram. EEPROM, EPROM, FLASH etc. are some of the memories of which FLASH is the most recently developed. Technology that is used in pic16F877A is flash technology, so that data is retained even when the power is switched off. Easy Programming and Erasing are other features of PIC 16F877A.
